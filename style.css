@@ -2,10 +2,12 @@
     border-radius: 30%;
 }
 body{
-    background-color: #76b6c4;
+    margin: 0;
+    background-image: url(x251x9xyybz31.png);
+    background-size: cover;
     text-align: center;
     font-family: Kdam Thmor Pro;
-
+    
 }
 .paragrafos{
    background-color:#064273 ; 
@@ -16,6 +18,13 @@ h1{
     font-family: Kdam Thmor Pro;
 
 }
-.azull{
+#azull{
     background-color: #064273;
+    width: 50%;
+    height: 50%;
+    border: 3px solid red;
+    text-align: center;
+    margin: 2em;
+
+
 }
